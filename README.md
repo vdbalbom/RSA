@@ -1,7 +1,5 @@
 # RSA
-RSA implementation in python.
-
-## [See ipynb](https://github.com/vdbalbom/RSA/blob/master/RSA.ipynb)
+RSA [implementation](https://github.com/vdbalbom/RSA/blob/master/RSA.ipynb) in python.
 
 ## To run
 
